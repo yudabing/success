@@ -1,0 +1,9 @@
+platform:ios,'8.0'
+target "掌柜" do
+pod "AFNetworking","~>2.0"
+pod "fmdb"
+pod "masonry"
+pod "MJRefresh","~>2,0"
+pod "ProgressHUD","~>2.0"
+pod "SDWebImage","~>2.0"
+end
